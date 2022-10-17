@@ -1,6 +1,7 @@
 # Authentication Service
 
 ## Tools
+  * TypeScript
   * Express
   * TypeORM
   * PostgreSQL
