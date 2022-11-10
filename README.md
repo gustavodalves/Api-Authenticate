@@ -26,3 +26,6 @@ Build TS to JS
 ## Setup
 You must add an `.env` file, based on .env.example, with the configuration of the postgresql database, service port and jsonwebtoken secret
     
+## Entity Relationship
+
+![ERD](https://user-images.githubusercontent.com/45016362/201196197-f8152637-3f51-44fd-b56c-3db42c0e78ad.svg)
