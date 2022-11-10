@@ -2,10 +2,11 @@
 
 ## Tools
   * TypeScript
-  * Express
-  * TypeORM
-  * PostgreSQL
+  * Fastify
+  * Prisma
+  * SQLite
   * JsonWebToken
+  * BCryptJS
 
 ## Installation
 In the project directory, you can run:
